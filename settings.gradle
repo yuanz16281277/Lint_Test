@@ -1,0 +1,2 @@
+include ':app', ':checks'
+rootProject.name='Lint_Test'
