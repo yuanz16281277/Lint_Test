@@ -41,6 +41,7 @@ public class SampleCodeDetector extends Detector implements UastScanner {
     /** Issue describing the problem and pointing to the detector implementation */
     public static final Issue ISSUE = Issue.create(
             // ID: used in @SuppressLint warnings etc
+
             "ShortUniqueId",
 
             // Title -- shown in the IDE's preference dialog, as category headers in the
