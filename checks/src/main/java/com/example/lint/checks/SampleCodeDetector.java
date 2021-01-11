@@ -44,6 +44,7 @@ public class SampleCodeDetector extends Detector implements UastScanner {
 
             "ShortUniqueId",
 
+
             // Title -- shown in the IDE's preference dialog, as category headers in the
             // Analysis results window, etc
             "Lint Mentions",
